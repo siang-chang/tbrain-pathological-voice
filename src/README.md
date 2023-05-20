@@ -121,4 +121,4 @@ model.add(tf.keras.layers.Dense(5, activation='softmax'))
 
 ![traning_loss_recall](images/traning_loss_recall.png)
 
-由於我個人的模型績效不太理想，因此在這個競賽，我們最終使用 [@Tsao666](https://github.com/Tsao666) 訓練的模型進行提交
+由於我個人的模型績效不太理想，因此在這個競賽，我們最終使用 [@Tsao666](https://github.com/Tsao666) 訓練的[模型](https://github.com/Tsao666/Multimodal-Pathological-Voice)進行提交
